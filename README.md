@@ -2,4 +2,4 @@
 by instructor Stephen Grider
 
 Text Editor Used
--Vistual Studio Code
+-Visual Studio Code
